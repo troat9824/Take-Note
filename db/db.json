@@ -1,6 +1,14 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+{
+    "notesArray": [
+        {
+            "title":"Test Title",
+            "text":"Test text",
+            "id": "0"
+        },
+        {
+            "title":"Challenge 11",
+            "text":"Finish challenge 11",
+            "id":"1"
+        }
+    ]
+}
