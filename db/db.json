@@ -1,14 +1,19 @@
 {
-    "notesArray": [
-        {
-            "title":"Test Title",
-            "text":"Test text",
-            "id": "0"
-        },
-        {
-            "title":"Challenge 11",
-            "text":"Finish challenge 11",
-            "id":"1"
-        }
-    ]
+  "notesArray": [
+    {
+      "title": "Test Title",
+      "text": "Test text",
+      "id": "0"
+    },
+    {
+      "title": "Challenge 11",
+      "text": "Finish challenge 11",
+      "id": "1"
+    },
+    {
+      "title": "note",
+      "text": "notes",
+      "id": "2"
+    }
+  ]
 }
